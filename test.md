@@ -12,6 +12,5 @@
 - 👯 I’m looking to collaborate on open-source projects that align with my interests.
 - 💬 Ask me about **Version control, Configuration management, IOC, CI/CD, Containerization.**
 - 📫 How to reach me **arbabkhan579@gmail.com**
-- 📄 Know about my experiences [Resume](https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf)
-tNativeResume.pdf" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/>
