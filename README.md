@@ -20,7 +20,6 @@
 
 - **Programming languages**:
 
-
    <table>
    <tbody>
     <tr valign="top">
@@ -36,7 +35,6 @@
     
 - **Operating Systems**:
 
-  
   <table>
    <tbody>
     <tr valign="top">
