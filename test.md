@@ -12,5 +12,5 @@
 - 👯 I’m looking to collaborate on open-source projects that align with my interests.
 - 💬 Ask me about **Version control, Configuration management, IOC, CI/CD, Containerization.**
 - 📫 How to reach me **arbabkhan579@gmail.com**
-- 📄 Know about my experiences [Resume](https://cutt.ly/Ahmed_Hossam_Website).
+- 📄 Know about my experiences [Resume].
 <br/>
