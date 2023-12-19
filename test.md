@@ -73,7 +73,7 @@
 
 - **Softwares and Tools**:
 
-    <table>
+   <table>
    <tbody>
     <tr valign="top">
       <td width="25%" align="center">
