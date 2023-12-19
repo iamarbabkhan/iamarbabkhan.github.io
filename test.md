@@ -43,11 +43,11 @@
    <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗟𝗶𝗻𝘂𝘅</span><br><br><br>
+        <span>𝗟𝗶𝗻𝘂𝘅</span><br><br>
         <img height="45px" src="https://cdn.svgporn.com/logos/linux-tux.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗪𝗶𝗻𝗱𝗼𝘄𝘀</span><br><br><br>
+        <span>𝗪𝗶𝗻𝗱𝗼𝘄𝘀</span><br><br>
         <img height="45px" src="https://cdn.svgporn.com/logos/microsoft-windows-icon.svg">
        </td>
     </tr>
@@ -77,27 +77,27 @@
    <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝐆𝐢𝐭</span><br><br><br>
+        <span>𝐆𝐢𝐭</span><br><br>
         <img height="45px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝐀𝐧𝐬𝐢𝐛𝐥𝐞</span><br><br><br>
+        <span>𝐀𝐧𝐬𝐢𝐛𝐥𝐞</span><br><br>
         <img height="45px" src="https://cdn.svgporn.com/logos/ansible.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦</span><br><br><br>
+        <span>𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦</span><br><br>
         <img height="45px" src="https://cdn.svgporn.com/logos/terraform-icon.svg">
       </td>    
        <td width="25%" align="center">
-        <span>𝐉𝐞𝐧𝐤𝐢𝐧𝐬</span><br><br><br>
+        <span>𝐉𝐞𝐧𝐤𝐢𝐧𝐬</span><br><br>
         <img height="45px" src="https://cdn.svgporn.com/logos/jenkins.svg">
       </td>        
       <td width="25%" align="center">
-        <span>𝐃𝐨𝐜𝐤𝐞𝐫</span><br><br><br>
+        <span>𝐃𝐨𝐜𝐤𝐞𝐫</span><br><br>
         <img height="45px" src="https://cdn.svgporn.com/logos/docker-icon.svg">
        </td> 
       <td width="25%" align="center">
-        <span>𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬</span><br><br><br>
+        <span>𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬</span><br><br>
         <img height="45px" src="https://cdn.svgporn.com/logos/kubernetes.svg">
        </td> 
     </tr>
