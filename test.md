@@ -22,7 +22,6 @@
 
 - **Programming languages**:
 
-  ![Windows Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Windows_logo_-_2012_%28purple%29.svg/1200px-Windows_logo_-_2012_%28purple%29.svg.png)
    <img src="https://skillicons.dev/icons?i=py,perline=14" />
 
 <br>   
