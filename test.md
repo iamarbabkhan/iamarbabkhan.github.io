@@ -22,25 +22,87 @@
 
 - **Programming languages**:
 
-   <img src="https://skillicons.dev/icons?i=py,perline=14" />
+
+   <table>
+   <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br>
+        <img height="45px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+    </tr>
+   </tbody>
+   </table>
 
 <br>   
     
 - **Operating Systems**:
+
   
-  <img src="https://skillicons.dev/icons?i=linux,perline=14" />
+  <table>
+   <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>𝗟𝗶𝗻𝘂𝘅</span><br><br><br>
+        <img height="45px" src="https://cdn.svgporn.com/logos/linux-tux.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗪𝗶𝗻𝗱𝗼𝘄𝘀</span><br><br><br>
+        <img height="45px" src="https://cdn.svgporn.com/logos/microsoft-windows-icon.svg">
+       </td>
+    </tr>
+   </tbody>
+   </table>
   
 <br>
 
 - **Cloud Hosting**:
 
-   <img src="https://skillicons.dev/icons?i=aws,perline=14" />
+   <table>
+   <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>𝐀𝐰𝐬</span><br><br>
+        <img height="45px" src="https://cdn.svgporn.com/logos/aws.svg">
+      </td>
+    </tr>
+   </tbody>
+   </table>
     
 <br>
 
 - **Softwares and Tools**:
 
-   <img src="https://skillicons.dev/icons?i=ansible,jenkins,docker,kubernetes,perline=14" />
+    <table>
+   <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>𝐆𝐢𝐭</span><br><br><br>
+        <img height="45px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝐀𝐧𝐬𝐢𝐛𝐥𝐞</span><br><br><br>
+        <img height="45px" src="https://cdn.svgporn.com/logos/ansible.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦</span><br><br><br>
+        <img height="45px" src="https://cdn.svgporn.com/logos/terraform-icon.svg">
+      </td>    
+       <td width="25%" align="center">
+        <span>𝐉𝐞𝐧𝐤𝐢𝐧𝐬</span><br><br><br>
+        <img height="45px" src="https://cdn.svgporn.com/logos/jenkins.svg">
+      </td>        
+      <td width="25%" align="center">
+        <span>𝐃𝐨𝐜𝐤𝐞𝐫</span><br><br><br>
+        <img height="45px" src="https://cdn.svgporn.com/logos/docker-icon.svg">
+       </td> 
+      <td width="25%" align="center">
+        <span>𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬</span><br><br><br>
+        <img height="45px" src="https://cdn.svgporn.com/logos/kubernetes.svg">
+       </td> 
+    </tr>
+   </tbody>
+   </table>
   
 <br>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
