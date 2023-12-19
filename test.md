@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arbab khan</h1>
 <h3 align="center">A passionate about DevOps and continuously striving to enhance my skills in the exciting world of development and operations. This README.md file serves as a snapshot of my journey, showcasing my interests, projects, and learning milestones.</h3>
 
+</p>
 
 
 	
