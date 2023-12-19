@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arbab khan</h1>
-<h2 align="center">A passionate about DevOps and continuously striving to enhance my skills in the exciting world of development and operations. This README.md file serves as a snapshot of my journey, showcasing my interests, projects, and learning milestones.</h2>
+<a align="center">A passionate about DevOps and continuously striving to enhance my skills in the exciting world of development and operations. This README.md file serves as a snapshot of my journey, showcasing my interests, projects, and learning milestones.</a>
 
 	
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
