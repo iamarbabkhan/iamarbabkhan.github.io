@@ -11,7 +11,6 @@
 - 💬 Ask me about **Version control, Configuration management, IOC, CI/CD, Containerization.**
 - 📫 How to reach me **arbabkhan579@gmail.com**.
 - 📄 Know about my experiences [Resume](https://google.in/).
-- 
   <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
