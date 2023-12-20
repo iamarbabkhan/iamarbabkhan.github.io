@@ -7,7 +7,6 @@
 
 <br><br>
 
-
 - 🛠️ I'm a Mechanical Engineer by profession 
 - 💼 I’m currently working in [Meil](https://meil.in/)
 - 🔭 I’m currently exploring the realms of DevOps, automation, and cloud technologies.
@@ -116,4 +115,4 @@
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/iamarbabkhan">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 		
-</p>
+
